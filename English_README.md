@@ -5,8 +5,7 @@ English | [简体中文](README.md)
 ## ℹ️ Basic Introduction
 
 This project contains multi-dimensional, multi-source data related to stocks and indices from 1990 to August 2025, covering basic stock information, market performance, financial indicators, factor analysis, index weights, and other content. It is suitable for stock research, data analysis, strategy backtesting, and other scenarios. The data is logically divided into four modules: **Basic Data**, **Market Data**, **Financial Data**, and **Factor Data**. Each module contains subdivided data tables that detailedly record various attributes and indicators of stocks.
-
-
+The data in this project is updated monthly. Please stay tuned for the latest data.
 
 Please refer to the `Data Dictionary.md` document for the data dictionary.
 
@@ -283,5 +282,5 @@ Indicators calculated based on financial data, reflecting the company's financia
 ## 📝 Remarks
 
 - The data is stored in the github repository, and larger files such as financial factor data and multi - source data are stored in Baidu Netdisk. Link: https://pan.baidu.com/s/1eyeHp6ftDZ4M9lcFurZkgQ Extraction code: hpa6
-- Please refer to [Data Dictionary](Data Dictionary.md) for the data dictionary.
+- Please refer to [Data Dictionary](数据字典.md) for the data dictionary.
 - See [Chinese](README.md) for the Chinese document.
