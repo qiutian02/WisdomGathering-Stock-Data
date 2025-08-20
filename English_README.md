@@ -5,7 +5,8 @@ English | [简体中文](README.md)
 ## ℹ️ Basic Introduction
 
 This project contains multi-dimensional, multi-source data related to stocks and indices from 1990 to August 2025, covering basic stock information, market performance, financial indicators, factor analysis, index weights, and other content. It is suitable for stock research, data analysis, strategy backtesting, and other scenarios. The data is logically divided into four modules: **Basic Data**, **Market Data**, **Financial Data**, and **Factor Data**. Each module contains subdivided data tables that detailedly record various attributes and indicators of stocks.
-The data in this project is updated monthly. Please stay tuned for the latest data.
+
+The data in this project is **updated monthly**. Please stay tuned for the latest data.
 
 Please refer to the `Data Dictionary.md` document for the data dictionary.
 
